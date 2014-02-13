@@ -1,0 +1,24 @@
+{
+  "name": "d3spinner",
+  "version": "0.0.1",
+  "homepage": "https://github.com/lglenn/D3Spinner",
+  "authors": [
+    "Larry Glenn <yrral.glenn@gmail.com>"
+  ],
+  "description": "A D3-based spinner",
+  "main": "js/spinner.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "d3": "~3.3.13"
+  }
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "coffee",
+    "Makefile"
+  ]
+}
